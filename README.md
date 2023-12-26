@@ -16,7 +16,7 @@ CSS3: Styling and layout.
 JavaScript (ES6+): Interactive features and API integration.
 
 ### How to Run the Project Locally
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/sulekha127/applewebsite.git
 
 Open index.html in your preferred web browser.
 
